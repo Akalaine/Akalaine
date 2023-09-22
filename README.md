@@ -1,16 +1,13 @@
-### Hi there 👋
+### **Bem Vindo a meu perrfil** 🌻
 
-<!--
-**Akalaine/Akalaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Kailaine Tarini**
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura] (https://www.alura.com.br)
+- Estou desenvolvendo a linguagem JavaScript
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### **Você pode entrar em contato comigo pelo email** 📫
+
+- kailainecristinesaragocatarini@gmail.com
+
+- https://tenor.com/pt-BR/view/zoned-out-cat-zoned-cat-black-cat-confused-cat-gif-15109566784527621954
